@@ -1,0 +1,17 @@
+html {
+  font-size: 10px;
+}
+* {
+  box-sizing: border-box;
+  transition: all 0.5s;
+}
+body{
+	background-color: #000;
+	margin: 0;
+}
+.first{
+	height: 100vh;
+	width: 100vw;
+	background: url('../img/sidonie.jpg') center center;
+	background-size: cover;
+}
